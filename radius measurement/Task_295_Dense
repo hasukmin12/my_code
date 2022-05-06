@@ -1,0 +1,215 @@
+/home/has/anaconda3/envs/my_code/bin/python "/home/has/PycharmProjects/my_code/radius measurement/measure radius in blob_modify.py"
+['case_00301.nii.gz', 'case_00302.nii.gz', 'case_00303.nii.gz', 'case_00304.nii.gz', 'case_00305.nii.gz', 'case_00306.nii.gz', 'case_00307.nii.gz', 'case_00308.nii.gz', 'case_00309.nii.gz', 'case_00310.nii.gz', 'case_00311.nii.gz', 'case_00312.nii.gz', 'case_00313.nii.gz', 'case_00314.nii.gz', 'case_00315.nii.gz', 'case_00316.nii.gz', 'case_00317.nii.gz', 'case_00318.nii.gz', 'case_00319.nii.gz', 'case_00320.nii.gz', 'case_00321.nii.gz', 'case_00322.nii.gz', 'case_00323.nii.gz', 'case_00324.nii.gz', 'case_00325.nii.gz', 'case_00326.nii.gz', 'case_00327.nii.gz', 'case_00328.nii.gz', 'case_00329.nii.gz', 'case_00330.nii.gz', 'case_00331.nii.gz', 'case_00332.nii.gz', 'case_00333.nii.gz', 'case_00334.nii.gz', 'case_00335.nii.gz', 'case_00336.nii.gz', 'case_00337.nii.gz', 'case_00338.nii.gz', 'case_00339.nii.gz', 'case_00340.nii.gz', 'case_00341.nii.gz', 'case_00342.nii.gz', 'case_00343.nii.gz', 'case_00344.nii.gz', 'case_00345.nii.gz', 'case_00346.nii.gz', 'case_00347.nii.gz', 'case_00348.nii.gz', 'case_00349.nii.gz', 'case_00350.nii.gz', 'case_00351.nii.gz', 'case_00352.nii.gz', 'case_00353.nii.gz', 'case_00354.nii.gz', 'case_00355.nii.gz', 'case_00356.nii.gz', 'case_00357.nii.gz', 'case_00358.nii.gz', 'case_00359.nii.gz', 'case_00360.nii.gz', 'case_00361.nii.gz', 'case_00362.nii.gz', 'case_00363.nii.gz', 'case_00364.nii.gz', 'case_00365.nii.gz', 'case_00366.nii.gz', 'case_00367.nii.gz', 'case_00368.nii.gz', 'case_00369.nii.gz']
+['case_00301.nii.gz', 'case_00302.nii.gz', 'case_00303.nii.gz', 'case_00304.nii.gz', 'case_00305.nii.gz', 'case_00306.nii.gz', 'case_00307.nii.gz', 'case_00308.nii.gz', 'case_00309.nii.gz', 'case_00310.nii.gz', 'case_00311.nii.gz', 'case_00312.nii.gz', 'case_00313.nii.gz', 'case_00314.nii.gz', 'case_00315.nii.gz', 'case_00316.nii.gz', 'case_00317.nii.gz', 'case_00318.nii.gz', 'case_00319.nii.gz', 'case_00320.nii.gz', 'case_00321.nii.gz', 'case_00322.nii.gz', 'case_00323.nii.gz', 'case_00324.nii.gz', 'case_00325.nii.gz', 'case_00326.nii.gz', 'case_00327.nii.gz', 'case_00328.nii.gz', 'case_00329.nii.gz', 'case_00330.nii.gz', 'case_00331.nii.gz', 'case_00332.nii.gz', 'case_00333.nii.gz', 'case_00334.nii.gz', 'case_00335.nii.gz', 'case_00336.nii.gz', 'case_00337.nii.gz', 'case_00338.nii.gz', 'case_00339.nii.gz', 'case_00340.nii.gz', 'case_00341.nii.gz', 'case_00342.nii.gz', 'case_00343.nii.gz', 'case_00344.nii.gz', 'case_00345.nii.gz', 'case_00346.nii.gz', 'case_00347.nii.gz', 'case_00348.nii.gz', 'case_00349.nii.gz', 'case_00350.nii.gz', 'case_00351.nii.gz', 'case_00352.nii.gz', 'case_00353.nii.gz', 'case_00354.nii.gz', 'case_00355.nii.gz', 'case_00356.nii.gz', 'case_00357.nii.gz', 'case_00358.nii.gz', 'case_00359.nii.gz', 'case_00360.nii.gz', 'case_00361.nii.gz', 'case_00362.nii.gz', 'case_00363.nii.gz', 'case_00364.nii.gz', 'case_00365.nii.gz', 'case_00366.nii.gz', 'case_00367.nii.gz', 'case_00368.nii.gz', 'case_00369.nii.gz']
+
+easy :  case_00301.nii.gz
+radius ratio :  0.7111111111111111
+
+easy :  case_00302.nii.gz
+radius ratio :  0.7411764705882353
+
+easy :  case_00303.nii.gz
+radius ratio :  0.797979797979798
+
+easy :  case_00304.nii.gz
+radius ratio :  0.6024096385542169
+
+easy :  case_00305.nii.gz
+radius ratio :  0.8860759493670886
+
+easy :  case_00307.nii.gz
+radius ratio :  0.7
+
+easy :  case_00308.nii.gz
+radius ratio :  0.7590361445783133
+
+easy :  case_00309.nii.gz
+radius ratio :  0.8764044943820225
+
+easy :  case_00311.nii.gz
+radius ratio :  0.935064935064935
+
+easy :  case_00312.nii.gz
+radius ratio :  0.8452380952380952
+
+easy :  case_00313.nii.gz
+radius ratio :  0.7558139534883721
+
+easy :  case_00314.nii.gz
+radius ratio :  0.8235294117647058
+
+easy :  case_00315.nii.gz
+radius ratio :  0.7934782608695652
+
+easy :  case_00316.nii.gz
+radius ratio :  0.8275862068965517
+
+easy :  case_00318.nii.gz
+radius ratio :  0.7692307692307693
+
+easy :  case_00324.nii.gz
+radius ratio :  0.8148148148148148
+
+easy :  case_00325.nii.gz
+radius ratio :  0.9620253164556962
+
+easy :  case_00326.nii.gz
+radius ratio :  0.8571428571428571
+
+easy :  case_00327.nii.gz
+radius ratio :  0.9069767441860465
+
+easy :  case_00328.nii.gz
+radius ratio :  0.8144329896907216
+
+easy :  case_00330.nii.gz
+radius ratio :  0.967741935483871
+
+easy :  case_00332.nii.gz
+radius ratio :  0.9135802469135802
+
+easy :  case_00334.nii.gz
+radius ratio :  0.8604651162790697
+
+easy :  case_00335.nii.gz
+radius ratio :  0.9883720930232558
+
+easy :  case_00337.nii.gz
+radius ratio :  0.948051948051948
+
+easy :  case_00338.nii.gz
+radius ratio :  0.9466666666666667
+
+easy :  case_00339.nii.gz
+radius ratio :  0.9065420560747663
+
+easy :  case_00340.nii.gz
+radius ratio :  0.963855421686747
+
+easy :  case_00342.nii.gz
+radius ratio :  0.7386363636363636
+
+easy :  case_00344.nii.gz
+radius ratio :  0.88
+
+easy :  case_00345.nii.gz
+radius ratio :  0.97
+
+easy :  case_00346.nii.gz
+radius ratio :  0.9315068493150684
+
+easy :  case_00347.nii.gz
+radius ratio :  0.9438202247191011
+
+easy :  case_00348.nii.gz
+radius ratio :  0.9662921348314607
+
+easy :  case_00350.nii.gz
+radius ratio :  0.9620253164556962
+
+easy :  case_00352.nii.gz
+radius ratio :  0.9746835443037974
+
+easy :  case_00353.nii.gz
+radius ratio :  0.974025974025974
+
+easy :  case_00354.nii.gz
+radius ratio :  0.972972972972973
+
+easy :  case_00355.nii.gz
+radius ratio :  0.8571428571428571
+
+easy :  case_00356.nii.gz
+radius ratio :  0.9523809523809523
+
+easy :  case_00357.nii.gz
+radius ratio :  0.9390243902439024
+
+easy :  case_00358.nii.gz
+radius ratio :  0.9404761904761905
+
+easy :  case_00359.nii.gz
+radius ratio :  0.9555555555555556
+
+easy :  case_00362.nii.gz
+radius ratio :  0.96
+
+easy :  case_00363.nii.gz
+radius ratio :  0.9634146341463414
+
+easy :  case_00364.nii.gz
+radius ratio :  0.9659090909090909
+
+easy :  case_00365.nii.gz
+radius ratio :  0.9146341463414634
+
+easy :  case_00366.nii.gz
+radius ratio :  0.9259259259259259
+
+easy :  case_00367.nii.gz
+radius ratio :  0.9550561797752809
+
+easy :  case_00368.nii.gz
+radius ratio :  0.8809523809523809
+
+easy :  case_00369.nii.gz
+radius ratio :  0.9411764705882353
+
+hard :  case_00306.nii.gz
+radius ratio :  0.6625
+
+hard :  case_00310.nii.gz
+radius ratio :  0.7252747252747253
+
+hard :  case_00317.nii.gz
+radius ratio :  0.9090909090909091
+
+hard :  case_00319.nii.gz
+radius ratio :  0.8860759493670886
+
+hard :  case_00320.nii.gz
+radius ratio :  0.6329113924050633
+
+hard :  case_00321.nii.gz
+radius ratio :  0.7631578947368421
+
+hard :  case_00322.nii.gz
+radius ratio :  0.48717948717948717
+
+hard :  case_00323.nii.gz
+radius ratio :  0.625
+
+hard :  case_00329.nii.gz
+radius ratio :  0.8505747126436781
+
+hard :  case_00331.nii.gz
+radius ratio :  0.6111111111111112
+
+hard :  case_00333.nii.gz
+radius ratio :  0.75
+
+hard :  case_00336.nii.gz
+radius ratio :  0.71875
+
+hard :  case_00343.nii.gz
+radius ratio :  0.6744186046511628
+
+hard :  case_00349.nii.gz
+radius ratio :  0.926829268292683
+
+hard :  case_00351.nii.gz
+radius ratio :  0.8243243243243243
+
+hard :  case_00360.nii.gz
+radius ratio :  0.9318181818181818
+
+hard :  case_00361.nii.gz
+radius ratio :  0.8111111111111111
+
+
+easy case total ratio :  0.8851061882408316
+hard case total ratio :  0.7523604512944922
+total ratio :  0.8519197540042469
+
+min :  0.48717948717948717
+max :  0.9883720930232558

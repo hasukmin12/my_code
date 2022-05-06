@@ -1,0 +1,213 @@
+/home/has/anaconda3/envs/my_code/bin/python "/home/has/PycharmProjects/my_code/radius measurement/measure radius in blob_scored.py"
+['case_00301.nii.gz', 'case_00302.nii.gz', 'case_00303.nii.gz', 'case_00304.nii.gz', 'case_00305.nii.gz', 'case_00306.nii.gz', 'case_00307.nii.gz', 'case_00308.nii.gz', 'case_00309.nii.gz', 'case_00310.nii.gz', 'case_00311.nii.gz', 'case_00312.nii.gz', 'case_00313.nii.gz', 'case_00314.nii.gz', 'case_00315.nii.gz', 'case_00316.nii.gz', 'case_00317.nii.gz', 'case_00318.nii.gz', 'case_00319.nii.gz', 'case_00320.nii.gz', 'case_00321.nii.gz', 'case_00322.nii.gz', 'case_00323.nii.gz', 'case_00324.nii.gz', 'case_00325.nii.gz', 'case_00326.nii.gz', 'case_00327.nii.gz', 'case_00328.nii.gz', 'case_00329.nii.gz', 'case_00330.nii.gz', 'case_00331.nii.gz', 'case_00332.nii.gz', 'case_00333.nii.gz', 'case_00334.nii.gz', 'case_00335.nii.gz', 'case_00336.nii.gz', 'case_00337.nii.gz', 'case_00338.nii.gz', 'case_00339.nii.gz', 'case_00340.nii.gz', 'case_00341.nii.gz', 'case_00342.nii.gz', 'case_00343.nii.gz', 'case_00344.nii.gz', 'case_00345.nii.gz', 'case_00346.nii.gz', 'case_00347.nii.gz', 'case_00348.nii.gz', 'case_00349.nii.gz', 'case_00350.nii.gz', 'case_00351.nii.gz', 'case_00352.nii.gz', 'case_00353.nii.gz', 'case_00354.nii.gz', 'case_00355.nii.gz', 'case_00356.nii.gz', 'case_00357.nii.gz', 'case_00358.nii.gz', 'case_00359.nii.gz', 'case_00360.nii.gz', 'case_00361.nii.gz', 'case_00362.nii.gz', 'case_00363.nii.gz', 'case_00364.nii.gz', 'case_00365.nii.gz', 'case_00366.nii.gz', 'case_00367.nii.gz', 'case_00368.nii.gz', 'case_00369.nii.gz']
+['case_00301.nii.gz', 'case_00302.nii.gz', 'case_00303.nii.gz', 'case_00304.nii.gz', 'case_00305.nii.gz', 'case_00306.nii.gz', 'case_00307.nii.gz', 'case_00308.nii.gz', 'case_00309.nii.gz', 'case_00310.nii.gz', 'case_00311.nii.gz', 'case_00312.nii.gz', 'case_00313.nii.gz', 'case_00314.nii.gz', 'case_00315.nii.gz', 'case_00316.nii.gz', 'case_00317.nii.gz', 'case_00318.nii.gz', 'case_00319.nii.gz', 'case_00320.nii.gz', 'case_00321.nii.gz', 'case_00322.nii.gz', 'case_00323.nii.gz', 'case_00324.nii.gz', 'case_00325.nii.gz', 'case_00326.nii.gz', 'case_00327.nii.gz', 'case_00328.nii.gz', 'case_00329.nii.gz', 'case_00330.nii.gz', 'case_00331.nii.gz', 'case_00332.nii.gz', 'case_00333.nii.gz', 'case_00334.nii.gz', 'case_00335.nii.gz', 'case_00336.nii.gz', 'case_00337.nii.gz', 'case_00338.nii.gz', 'case_00339.nii.gz', 'case_00340.nii.gz', 'case_00341.nii.gz', 'case_00342.nii.gz', 'case_00343.nii.gz', 'case_00344.nii.gz', 'case_00345.nii.gz', 'case_00346.nii.gz', 'case_00347.nii.gz', 'case_00348.nii.gz', 'case_00349.nii.gz', 'case_00350.nii.gz', 'case_00351.nii.gz', 'case_00352.nii.gz', 'case_00353.nii.gz', 'case_00354.nii.gz', 'case_00355.nii.gz', 'case_00356.nii.gz', 'case_00357.nii.gz', 'case_00358.nii.gz', 'case_00359.nii.gz', 'case_00360.nii.gz', 'case_00361.nii.gz', 'case_00362.nii.gz', 'case_00363.nii.gz', 'case_00364.nii.gz', 'case_00365.nii.gz', 'case_00366.nii.gz', 'case_00367.nii.gz', 'case_00368.nii.gz', 'case_00369.nii.gz']
+
+easy :  case_00301.nii.gz
+Distance Score :  0.6459133577210631
+
+easy :  case_00302.nii.gz
+Distance Score :  0.5911999384324029
+
+easy :  case_00303.nii.gz
+Distance Score :  0.6988266911079626
+
+easy :  case_00304.nii.gz
+Distance Score :  0.569712224033877
+
+easy :  case_00305.nii.gz
+Distance Score :  0.7863998751805193
+
+easy :  case_00307.nii.gz
+Distance Score :  0.6340186140271417
+
+easy :  case_00308.nii.gz
+Distance Score :  0.7426494245804423
+
+easy :  case_00309.nii.gz
+Distance Score :  0.7938025995845072
+
+easy :  case_00311.nii.gz
+Distance Score :  0.8068115135299806
+
+easy :  case_00312.nii.gz
+Distance Score :  0.7841515840201313
+
+easy :  case_00313.nii.gz
+Distance Score :  0.6085710742178132
+
+easy :  case_00314.nii.gz
+Distance Score :  0.7520543100376302
+
+easy :  case_00315.nii.gz
+Distance Score :  0.6994175157744268
+
+easy :  case_00316.nii.gz
+Distance Score :  0.7096031961343116
+
+easy :  case_00318.nii.gz
+Distance Score :  0.7663614770112477
+
+easy :  case_00324.nii.gz
+Distance Score :  0.735331607774179
+
+easy :  case_00325.nii.gz
+Distance Score :  0.848535968751389
+
+easy :  case_00326.nii.gz
+Distance Score :  0.8135171587661116
+
+easy :  case_00327.nii.gz
+Distance Score :  0.8791362687382255
+
+easy :  case_00328.nii.gz
+Distance Score :  0.7869543906598553
+
+easy :  case_00330.nii.gz
+Distance Score :  0.8923337353085863
+
+easy :  case_00332.nii.gz
+Distance Score :  0.8041634443137469
+
+easy :  case_00334.nii.gz
+Distance Score :  0.8895106033739085
+
+easy :  case_00335.nii.gz
+Distance Score :  0.8809693505269723
+
+easy :  case_00337.nii.gz
+Distance Score :  0.8377548063060151
+
+easy :  case_00338.nii.gz
+Distance Score :  0.8884283118173503
+
+easy :  case_00339.nii.gz
+Distance Score :  0.8345639230288405
+
+easy :  case_00340.nii.gz
+Distance Score :  0.8408488074140866
+
+easy :  case_00342.nii.gz
+Distance Score :  0.6556213033573004
+
+easy :  case_00344.nii.gz
+Distance Score :  0.8492824020451635
+
+easy :  case_00345.nii.gz
+Distance Score :  0.8214902249469772
+
+easy :  case_00346.nii.gz
+Distance Score :  0.743658089676015
+
+easy :  case_00347.nii.gz
+Distance Score :  0.8752181832903994
+
+easy :  case_00348.nii.gz
+Distance Score :  0.880624208779431
+
+easy :  case_00350.nii.gz
+Distance Score :  0.8672640661405229
+
+easy :  case_00352.nii.gz
+Distance Score :  0.8387872868271122
+
+easy :  case_00353.nii.gz
+Distance Score :  0.9130392924449782
+
+easy :  case_00354.nii.gz
+Distance Score :  0.8697128543963051
+
+easy :  case_00355.nii.gz
+Distance Score :  0.8131427322248205
+
+easy :  case_00356.nii.gz
+Distance Score :  0.7849484758240637
+
+easy :  case_00357.nii.gz
+Distance Score :  0.8864240478851011
+
+easy :  case_00358.nii.gz
+Distance Score :  0.8620322234042799
+
+easy :  case_00359.nii.gz
+Distance Score :  0.8358344925844591
+
+easy :  case_00362.nii.gz
+Distance Score :  0.8689020846789466
+
+easy :  case_00363.nii.gz
+Distance Score :  0.8589458541119259
+
+easy :  case_00364.nii.gz
+Distance Score :  0.8173813958683215
+
+easy :  case_00365.nii.gz
+Distance Score :  0.8634986986149935
+
+easy :  case_00366.nii.gz
+Distance Score :  0.8165356151552127
+
+easy :  case_00367.nii.gz
+Distance Score :  0.866793856680563
+
+easy :  case_00368.nii.gz
+Distance Score :  0.8150789448503355
+
+easy :  case_00369.nii.gz
+Distance Score :  0.8516879538993036
+
+hard :  case_00306.nii.gz
+Distance Score :  0.5424283679444194
+
+hard :  case_00310.nii.gz
+Distance Score :  0.62469156841326
+
+hard :  case_00317.nii.gz
+Distance Score :  0.7726554550057667
+
+hard :  case_00319.nii.gz
+Distance Score :  0.7626857758201983
+
+hard :  case_00320.nii.gz
+Distance Score :  0.6017169484858764
+
+hard :  case_00321.nii.gz
+Distance Score :  0.6925132463600737
+
+hard :  case_00322.nii.gz
+Distance Score :  0.4523863494495221
+
+hard :  case_00323.nii.gz
+Distance Score :  0.5504017956558862
+
+hard :  case_00329.nii.gz
+Distance Score :  0.74167701196284
+
+hard :  case_00331.nii.gz
+Distance Score :  0.5323998971756589
+
+hard :  case_00333.nii.gz
+Distance Score :  0.7008062350469031
+
+hard :  case_00336.nii.gz
+Distance Score :  0.6000897174167783
+
+hard :  case_00343.nii.gz
+Distance Score :  0.611720842192366
+
+hard :  case_00349.nii.gz
+Distance Score :  0.8453880602693706
+
+hard :  case_00351.nii.gz
+Distance Score :  0.8075220000904373
+
+hard :  case_00360.nii.gz
+Distance Score :  0.8234326008580827
+
+hard :  case_00361.nii.gz
+Distance Score :  0.6605388449383386
+
+
+easy case total distance score :  0.7995577658795933
+hard case total distance score :  0.6660620421815163
+
+total ratio :  0.766183834955074

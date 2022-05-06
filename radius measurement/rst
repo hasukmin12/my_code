@@ -1,0 +1,413 @@
+rst_1.5
+
+/home/has/anaconda3/envs/my_code/bin/python "/home/has/PycharmProjects/my_code/radius measurement/measure radius in blob_4.py"
+['case_00301.nii.gz', 'case_00302.nii.gz', 'case_00303.nii.gz', 'case_00304.nii.gz', 'case_00305.nii.gz', 'case_00306.nii.gz', 'case_00307.nii.gz', 'case_00308.nii.gz', 'case_00309.nii.gz', 'case_00310.nii.gz', 'case_00311.nii.gz', 'case_00312.nii.gz', 'case_00313.nii.gz', 'case_00314.nii.gz', 'case_00315.nii.gz', 'case_00316.nii.gz', 'case_00317.nii.gz', 'case_00318.nii.gz', 'case_00319.nii.gz', 'case_00320.nii.gz', 'case_00321.nii.gz', 'case_00322.nii.gz', 'case_00323.nii.gz', 'case_00324.nii.gz', 'case_00325.nii.gz', 'case_00326.nii.gz', 'case_00327.nii.gz', 'case_00328.nii.gz', 'case_00329.nii.gz', 'case_00330.nii.gz', 'case_00331.nii.gz', 'case_00332.nii.gz', 'case_00333.nii.gz', 'case_00334.nii.gz', 'case_00335.nii.gz', 'case_00336.nii.gz', 'case_00337.nii.gz', 'case_00338.nii.gz', 'case_00339.nii.gz', 'case_00340.nii.gz', 'case_00342.nii.gz', 'case_00343.nii.gz', 'case_00344.nii.gz', 'case_00345.nii.gz', 'case_00346.nii.gz', 'case_00347.nii.gz', 'case_00348.nii.gz', 'case_00349.nii.gz', 'case_00350.nii.gz', 'case_00351.nii.gz', 'case_00352.nii.gz', 'case_00353.nii.gz', 'case_00354.nii.gz', 'case_00355.nii.gz', 'case_00356.nii.gz', 'case_00357.nii.gz', 'case_00358.nii.gz', 'case_00359.nii.gz', 'case_00360.nii.gz', 'case_00361.nii.gz', 'case_00362.nii.gz', 'case_00363.nii.gz', 'case_00364.nii.gz', 'case_00365.nii.gz', 'case_00366.nii.gz', 'case_00367.nii.gz', 'case_00368.nii.gz', 'case_00369.nii.gz']
+['case_00301.nii.gz', 'case_00302.nii.gz', 'case_00303.nii.gz', 'case_00304.nii.gz', 'case_00305.nii.gz', 'case_00306.nii.gz', 'case_00307.nii.gz', 'case_00308.nii.gz', 'case_00309.nii.gz', 'case_00310.nii.gz', 'case_00311.nii.gz', 'case_00312.nii.gz', 'case_00313.nii.gz', 'case_00314.nii.gz', 'case_00315.nii.gz', 'case_00316.nii.gz', 'case_00317.nii.gz', 'case_00318.nii.gz', 'case_00319.nii.gz', 'case_00320.nii.gz', 'case_00321.nii.gz', 'case_00322.nii.gz', 'case_00323.nii.gz', 'case_00324.nii.gz', 'case_00325.nii.gz', 'case_00326.nii.gz', 'case_00327.nii.gz', 'case_00328.nii.gz', 'case_00329.nii.gz', 'case_00330.nii.gz', 'case_00331.nii.gz', 'case_00332.nii.gz', 'case_00333.nii.gz', 'case_00334.nii.gz', 'case_00335.nii.gz', 'case_00336.nii.gz', 'case_00337.nii.gz', 'case_00338.nii.gz', 'case_00339.nii.gz', 'case_00340.nii.gz', 'case_00342.nii.gz', 'case_00343.nii.gz', 'case_00344.nii.gz', 'case_00345.nii.gz', 'case_00346.nii.gz', 'case_00347.nii.gz', 'case_00348.nii.gz', 'case_00349.nii.gz', 'case_00350.nii.gz', 'case_00351.nii.gz', 'case_00352.nii.gz', 'case_00353.nii.gz', 'case_00354.nii.gz', 'case_00355.nii.gz', 'case_00356.nii.gz', 'case_00357.nii.gz', 'case_00358.nii.gz', 'case_00359.nii.gz', 'case_00360.nii.gz', 'case_00361.nii.gz', 'case_00362.nii.gz', 'case_00363.nii.gz', 'case_00364.nii.gz', 'case_00365.nii.gz', 'case_00366.nii.gz', 'case_00367.nii.gz', 'case_00368.nii.gz', 'case_00369.nii.gz']
+
+case_00301.nii.gz
+radius ratio :  0.7888888888888889
+total ratio :  0.7888888888888889
+min :  0.7888888888888889
+max :  0.7888888888888889
+
+case_00302.nii.gz
+radius ratio :  0.825
+total ratio :  0.8069444444444445
+min :  0.7888888888888889
+max :  0.825
+
+case_00303.nii.gz
+radius ratio :  0.9583333333333334
+total ratio :  0.8574074074074075
+min :  0.7888888888888889
+max :  0.9583333333333334
+
+case_00304.nii.gz
+radius ratio :  0.8421052631578947
+total ratio :  0.8535818713450293
+min :  0.7888888888888889
+max :  0.9583333333333334
+
+case_00305.nii.gz
+radius ratio :  0.9315068493150684
+total ratio :  0.8691668669390371
+min :  0.7888888888888889
+max :  0.9583333333333334
+
+case_00306.nii.gz
+radius ratio :  0.8028169014084507
+total ratio :  0.858108539350606
+min :  0.7888888888888889
+max :  0.9583333333333334
+
+case_00307.nii.gz
+radius ratio :  0.872093023255814
+total ratio :  0.8601063227656357
+min :  0.7888888888888889
+max :  0.9583333333333334
+
+case_00308.nii.gz
+radius ratio :  0.9125
+total ratio :  0.8666555324199312
+min :  0.7888888888888889
+max :  0.9583333333333334
+
+case_00309.nii.gz
+radius ratio :  0.9659090909090909
+total ratio :  0.8776837055853934
+min :  0.7888888888888889
+max :  0.9659090909090909
+
+case_00310.nii.gz
+radius ratio :  0.9195402298850575
+total ratio :  0.8818693580153598
+min :  0.7888888888888889
+max :  0.9659090909090909
+
+case_00311.nii.gz
+radius ratio :  0.9012345679012346
+total ratio :  0.8836298316413483
+min :  0.7888888888888889
+max :  0.9659090909090909
+
+case_00312.nii.gz
+radius ratio :  0.9390243902439024
+total ratio :  0.8882460448582279
+min :  0.7888888888888889
+max :  0.9659090909090909
+
+case_00313.nii.gz
+radius ratio :  0.8589743589743589
+total ratio :  0.8859943767133149
+min :  0.7888888888888889
+max :  0.9659090909090909
+
+case_00314.nii.gz
+radius ratio :  0.9375
+total ratio :  0.8896733498052211
+min :  0.7888888888888889
+max :  0.9659090909090909
+
+case_00315.nii.gz
+radius ratio :  0.8470588235294118
+total ratio :  0.8868323813868337
+min :  0.7888888888888889
+max :  0.9659090909090909
+
+case_00316.nii.gz
+radius ratio :  0.7752808988764045
+total ratio :  0.879860413729932
+min :  0.7752808988764045
+max :  0.9659090909090909
+
+case_00317.nii.gz
+radius ratio :  0.9431818181818182
+total ratio :  0.8835852022271018
+min :  0.7752808988764045
+max :  0.9659090909090909
+
+case_00318.nii.gz
+radius ratio :  0.9176470588235294
+total ratio :  0.88547752759357
+min :  0.7752808988764045
+max :  0.9659090909090909
+
+case_00319.nii.gz
+radius ratio :  0.9375
+total ratio :  0.8882155524570662
+min :  0.7752808988764045
+max :  0.9659090909090909
+
+case_00320.nii.gz
+radius ratio :  0.9104477611940298
+total ratio :  0.8893271628939143
+min :  0.7752808988764045
+max :  0.9659090909090909
+
+case_00321.nii.gz
+radius ratio :  0.8208955223880597
+total ratio :  0.8860685133460164
+min :  0.7752808988764045
+max :  0.9659090909090909
+
+case_00322.nii.gz
+radius ratio :  0.8356164383561644
+total ratio :  0.8837752372101142
+min :  0.7752808988764045
+max :  0.9659090909090909
+
+case_00323.nii.gz
+radius ratio :  0.9014084507042254
+total ratio :  0.8845418986663798
+min :  0.7752808988764045
+max :  0.9659090909090909
+
+case_00324.nii.gz
+radius ratio :  0.8809523809523809
+total ratio :  0.8843923354282964
+min :  0.7752808988764045
+max :  0.9659090909090909
+
+case_00325.nii.gz
+radius ratio :  0.9135802469135802
+total ratio :  0.8855598518877078
+min :  0.7752808988764045
+max :  0.9659090909090909
+
+case_00326.nii.gz
+radius ratio :  0.926829268292683
+total ratio :  0.8871471371340529
+min :  0.7752808988764045
+max :  0.9659090909090909
+
+case_00327.nii.gz
+radius ratio :  0.9642857142857143
+total ratio :  0.8900041214730033
+min :  0.7752808988764045
+max :  0.9659090909090909
+
+case_00328.nii.gz
+radius ratio :  0.89
+total ratio :  0.890003974277539
+min :  0.7752808988764045
+max :  0.9659090909090909
+
+case_00329.nii.gz
+radius ratio :  0.9036144578313253
+total ratio :  0.890473301296635
+min :  0.7752808988764045
+max :  0.9659090909090909
+
+case_00330.nii.gz
+radius ratio :  0.9782608695652174
+total ratio :  0.8933995535722545
+min :  0.7752808988764045
+max :  0.9782608695652174
+
+case_00331.nii.gz
+radius ratio :  0.8313253012048193
+total ratio :  0.8913971583345953
+min :  0.7752808988764045
+max :  0.9782608695652174
+
+case_00332.nii.gz
+radius ratio :  0.918918918918919
+total ratio :  0.8922572133528555
+min :  0.7752808988764045
+max :  0.9782608695652174
+
+case_00333.nii.gz
+radius ratio :  0.9024390243902439
+total ratio :  0.8925657530812612
+min :  0.7752808988764045
+max :  0.9782608695652174
+
+case_00334.nii.gz
+radius ratio :  0.9761904761904762
+total ratio :  0.8950253037609439
+min :  0.7752808988764045
+max :  0.9782608695652174
+
+case_00335.nii.gz
+radius ratio :  0.9651162790697675
+total ratio :  0.8970279030554817
+min :  0.7752808988764045
+max :  0.9782608695652174
+
+case_00336.nii.gz
+radius ratio :  0.85
+total ratio :  0.8957215724150517
+min :  0.7752808988764045
+max :  0.9782608695652174
+
+case_00337.nii.gz
+radius ratio :  0.9863013698630136
+total ratio :  0.8981696750487803
+min :  0.7752808988764045
+max :  0.9863013698630136
+
+case_00338.nii.gz
+radius ratio :  1.0
+total ratio :  0.9008494204422335
+min :  0.7752808988764045
+max :  1.0
+
+case_00339.nii.gz
+radius ratio :  0.9339622641509434
+total ratio :  0.9016984677168158
+min :  0.7752808988764045
+max :  1.0
+
+case_00340.nii.gz
+radius ratio :  0.9625
+total ratio :  0.9032185060238953
+min :  0.7752808988764045
+max :  1.0
+
+case_00342.nii.gz
+radius ratio :  0.9390243902439024
+total ratio :  0.9040918202731638
+min :  0.7752808988764045
+max :  1.0
+
+case_00343.nii.gz
+radius ratio :  0.8271604938271605
+total ratio :  0.9022601220244494
+min :  0.7752808988764045
+max :  1.0
+
+case_00344.nii.gz
+radius ratio :  0.9583333333333334
+total ratio :  0.9035641501944235
+min :  0.7752808988764045
+max :  1.0
+
+case_00345.nii.gz
+radius ratio :  0.9791666666666666
+total ratio :  0.9052823892051562
+min :  0.7752808988764045
+max :  1.0
+
+case_00346.nii.gz
+radius ratio :  0.92
+total ratio :  0.9056094472228194
+min :  0.7752808988764045
+max :  1.0
+
+case_00347.nii.gz
+radius ratio :  0.9555555555555556
+total ratio :  0.9066952321865746
+min :  0.7752808988764045
+max :  1.0
+
+case_00348.nii.gz
+radius ratio :  0.9550561797752809
+total ratio :  0.9077241885182492
+min :  0.7752808988764045
+max :  1.0
+
+case_00349.nii.gz
+radius ratio :  0.9069767441860465
+total ratio :  0.9077086167613283
+min :  0.7752808988764045
+max :  1.0
+
+case_00350.nii.gz
+radius ratio :  0.975
+total ratio :  0.9090819102968115
+min :  0.7752808988764045
+max :  1.0
+
+case_00351.nii.gz
+radius ratio :  0.8615384615384616
+total ratio :  0.9081310413216444
+min :  0.7752808988764045
+max :  1.0
+
+case_00352.nii.gz
+radius ratio :  0.9866666666666667
+total ratio :  0.9096709555440958
+min :  0.7752808988764045
+max :  1.0
+
+case_00353.nii.gz
+radius ratio :  0.9868421052631579
+total ratio :  0.9111550161156162
+min :  0.7752808988764045
+max :  1.0
+
+case_00354.nii.gz
+radius ratio :  0.9863013698630136
+total ratio :  0.9125728718466992
+min :  0.7752808988764045
+max :  1.0
+
+case_00355.nii.gz
+radius ratio :  0.9285714285714286
+total ratio :  0.9128691414156757
+min :  0.7752808988764045
+max :  1.0
+
+case_00356.nii.gz
+radius ratio :  0.9647058823529412
+total ratio :  0.913811627614535
+min :  0.7752808988764045
+max :  1.0
+
+case_00357.nii.gz
+radius ratio :  0.975
+total ratio :  0.9149042771214183
+min :  0.7752808988764045
+max :  1.0
+
+case_00358.nii.gz
+radius ratio :  1.0
+total ratio :  0.9163971845403408
+min :  0.7752808988764045
+max :  1.0
+
+case_00359.nii.gz
+radius ratio :  0.9148936170212766
+total ratio :  0.9163712609624259
+min :  0.7752808988764045
+max :  1.0
+
+case_00360.nii.gz
+radius ratio :  0.896551724137931
+total ratio :  0.9160353366094683
+min :  0.7752808988764045
+max :  1.0
+
+case_00361.nii.gz
+radius ratio :  0.9195402298850575
+total ratio :  0.9160937514973948
+min :  0.7752808988764045
+max :  1.0
+
+case_00362.nii.gz
+radius ratio :  0.9696969696969697
+total ratio :  0.9169724927793551
+min :  0.7752808988764045
+max :  1.0
+
+case_00363.nii.gz
+radius ratio :  0.9615384615384616
+total ratio :  0.9176912987270825
+min :  0.7752808988764045
+max :  1.0
+
+case_00364.nii.gz
+radius ratio :  0.9347826086956522
+total ratio :  0.9179625893615042
+min :  0.7752808988764045
+max :  1.0
+
+case_00365.nii.gz
+radius ratio :  0.8974358974358975
+total ratio :  0.9176418598001667
+min :  0.7752808988764045
+max :  1.0
+
+case_00366.nii.gz
+radius ratio :  0.9382716049382716
+total ratio :  0.9179592404945991
+min :  0.7752808988764045
+max :  1.0
+
+case_00367.nii.gz
+radius ratio :  0.9770114942528736
+total ratio :  0.9188539716121487
+min :  0.7752808988764045
+max :  1.0
+
+case_00368.nii.gz
+radius ratio :  0.9512195121951219
+total ratio :  0.9193370393820438
+min :  0.7752808988764045
+max :  1.0
+
+case_00369.nii.gz
+radius ratio :  0.9655172413793104
+total ratio :  0.9200161599996506
+min :  0.7752808988764045
+max :  1.0
